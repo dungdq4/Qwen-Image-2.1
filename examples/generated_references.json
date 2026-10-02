@@ -1,0 +1,222 @@
+[
+  {
+    "id": "zh_1",
+    "title": "电影角色三视图",
+    "title_en": "Film character turnaround",
+    "prompt": "生成一张真人电影质感的单角色三视图设定参考图。干净灰色背景，左侧为一张较大的完整头肩半身细节图，必须是同一角色从头部到肩部/胸口的连续完整特写，清楚展示面部、发型、上身服装、配饰和材质细节；左侧不要拆成多个局部小图、不要拼贴多个细节框、不要只给眼睛/衣料/配饰等碎片特写。右侧展示同一角色正面、侧面、背面全身三视图，全身可见。角色设定如下：丹尼尔·斯通，纯白背景，无其他人物和场景；丹尼尔·斯通的单人全身立绘，正对镜头站立，表情自然；30岁青年男性，2020年代现代美国，欧洲裔白人外貌，浅肤色，身高约185cm，9头身，魁梧健壮体型，肌肉发达，2020年代棕色短寸头，发质粗硬，眼窝深陷，瞳孔呈灰蓝色，鼻梁高挺且鼻头宽大，唇形厚实且唇色苍白，方下颌轮廓分明，面部皮肤粗糙并带有污垢痕迹，穿着2020年代脏污灰色连帽卫衣配同色系工装裤，脚穿2020年代黑色防滑工装靴，双手佩戴破旧皮革手套，双手自然下垂；光照均匀，高画质，手部完美，无文字水印。 三视图中面部特征、身形比例、发型、服装、配饰、鞋履、姿态和关键视觉元素保持一致；表情自然中性，站姿稳定，比例统一，皮肤和布料金属等材质细节清楚，电影级写实光照，高画质，无文字、无logo、无水印。",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_zh_1.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        2496,
+        1664
+      ]
+    }
+  },
+  {
+    "id": "zh_2",
+    "title": "小羊肖恩生日故事",
+    "title_en": "Shaun the Sheep birthday story",
+    "prompt": "3D粘土漫画，生成小羊肖恩\n镜头一：清晨的青苔底农场暖意融融，小羊肖恩发现农夫正在精心装饰巧克力生日蛋糕。镜头二：随即心生主意，独自带着小羊提米靠近厨房。镜头三：它悄悄避开熟睡的牧羊犬，带着提米溜进屋内。镜头四：不料提米意外打翻面粉、蹭损蛋糕，场面十分狼狈。镜头五：关键时刻肖恩灵机一动，伸出手指，在厚厚的白色粉末上流畅地画了起来。\n首先是一个巨大的、歪歪扭拙却充满爱意的爱心；接着是\"HAPPY BIRTHDAY\"的字样。随后，他指挥提米将散落的鲜红草莓摆放在爱心周围，又将从窗外采摘的野花（雏菊、矢车菊）插在蛋糕受损的边缘，巧妙地遮盖了瑕疵。原本狼藉的桌面，瞬间变成了一幅质朴而温馨的田园画作。肖恩退后一步，满意地拍了拍手上的面粉，脸上露出自豪的微笑。镜头六：农夫归来后，看见这份质朴又温馨的布置开怀大笑，这场小小的意外，最终变成了农场治愈又暖心的生日惊喜。",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_zh_2.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        2496,
+        1664
+      ]
+    }
+  },
+  {
+    "id": "zh_3",
+    "title": "民国漫剧分镜",
+    "title_en": "Period drama storyboard",
+    "prompt": "一组连贯短视频故事板分镜图，竖版漫剧短剧叙事节奏，2.5D 拟真人细腻质感，民国新旧交替时代背景，主角是清冷民国女学生，配儒雅留洋青年配角，镜头遵循全景 - 中景 - 近景 - 特写顺序；镜头内容： 老街全景雨雾、 二人撑伞对视中景、女生垂眸特写、青年递信手部特写、 巷口转身远景、灯下拆信近景、含泪侧脸特写、留白空镜；每格底部标注简短剧情字幕，画面低饱和复古色调，柔和分层柔光，人物五官写实精致，布料纹理清晰，无杂乱水印，分镜边框规整，镜头衔接流畅，叙事紧凑适配短视频，整体光影层次丰富，全程统一 2.5D 拟真人画风，人物形象全程不崩，场景道具贴合民国时代设定",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_zh_3.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        1440,
+        2880
+      ]
+    }
+  },
+  {
+    "id": "zh_4",
+    "title": "祈年殿拆解科普卡",
+    "title_en": "Temple architecture infographic",
+    "prompt": "竖版祈年殿拆解科普卡，纯白色宣纸底色，左竖排书法\"祈年殿\"、小字天坛与红印章，附线稿和简介；主体从上到下分层拆解全建筑构件，右侧虚线序号标注名称，中式手绘，配色棕、深蓝、朱红、米白。",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_zh_4.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        1440,
+        2880
+      ]
+    }
+  },
+  {
+    "id": "zh_5",
+    "title": "AI 进化时间轴",
+    "title_en": "AI evolution timeline",
+    "prompt": "生成一张计算机/技术主题的\"AI进化历程\"时间演化卡，采用线性顺序的时间轴/编年结构，风格为手绘/涂鸦。背景用大地棕褐色系单色渐变，搭配手绘涂鸦元素与统一科普插图。版式采用卡片网格、上图下文，图文留白清晰。标题用粗黑标题体，正文用中文手写体，重点文字采用渐变色填充字与双色调文字，文字信息整体规整易读，完整呈现AI发展节点。",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_zh_5.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        1664,
+        2496
+      ]
+    }
+  },
+  {
+    "id": "zh_6",
+    "title": "唇膏广告分镜",
+    "title_en": "Lipstick commercial storyboard",
+    "prompt": "生成一张原创高端美妆广告分镜展示板，主题为\"LUNE 丝绒唇膏 15 秒广告脚本\"。整体像真实品牌团队制作的商业广告脚本视觉板，包含 5 个连续分镜画面 + 时间轴 + 字幕 / 台词 + 镜头说明 + 转场提示。排版清晰、统一、精致、高级，具有女性向、轻奢、电影感、美妆广告质感。主色调为 奶油白、黑色、酒红、玫瑰豆沙、暖金色，灯光柔和，肤质细腻，材质高级。",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_zh_6.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        2496,
+        1664
+      ]
+    }
+  },
+  {
+    "id": "zh_7",
+    "title": "巨兽对决故事板",
+    "title_en": "Giant creature battle storyboard",
+    "prompt": "核心大纲 1. 场景：3DCG质感，废弃都市遗迹（黄昏），尘土漫天，绯红色夕阳，地面有巨大脚印。 2. 人物：炎狱巨蜥（熔岩鳞片、喷烈焰）、霜牙巨象（雪白、喷寒气）、幸存人类（远景蜷缩）。 3. 剧情脉络： （1）对峙（0-20秒）：两只巨兽在废墟对峙，人类蜷缩避险，氛围压迫。 （2）开战（21-50秒）：炎狱巨蜥喷烈焰，霜牙巨象喷寒气对抗，引发冲击，高楼坍塌。 （3）激战（51-90秒）：双方互相攻击，均受重伤，嘶吼震彻废墟。 （4）落幕（91-110秒）：两只巨兽重伤对峙，镜头拉远，定格巨兽与废墟，留下悬念",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_zh_7.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  },
+  {
+    "id": "en_1",
+    "title": "Editorial portrait",
+    "title_en": "Editorial portrait",
+    "prompt": "Create an editorial portrait of a botanist in a sunlit greenhouse, surrounded by ferns and delicate orchids. Natural skin texture, linen clothing, soft morning backlight, subtle film grain, medium-format photography, calm expression, no text or watermark.",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_en_1.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        1664,
+        2496
+      ]
+    }
+  },
+  {
+    "id": "en_2",
+    "title": "Typography poster",
+    "title_en": "Typography poster",
+    "prompt": "Design a refined travel poster for a fictional night train. Render the headline exactly as \"THE MIDNIGHT EXPRESS\" and the subtitle \"A journey under the stars\". A silver train curves through dark blue mountains beneath a crescent moon. Art Deco geometry, ivory and gold lettering, clear typographic hierarchy, generous margins, print-ready composition.",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_en_2.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        1664,
+        2496
+      ]
+    }
+  },
+  {
+    "id": "en_3",
+    "title": "Six-panel storyboard",
+    "title_en": "Six-panel storyboard",
+    "prompt": "Create a six-panel cinematic storyboard about a small robot restoring an abandoned rooftop garden. Show: arrival at dawn, discovery of a dried seedling, repairing an irrigation pipe, planting new seeds, the first rain, and a lush garden at sunset. Keep the robot's round yellow body and blue eyes consistent in every panel. Clear panel borders, expressive visual storytelling, detailed environments, no captions.",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_en_3.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        2496,
+        1664
+      ]
+    }
+  },
+  {
+    "id": "en_4",
+    "title": "Product photography",
+    "title_en": "Product photography",
+    "prompt": "Photograph a translucent emerald perfume bottle on pale limestone beside a shallow pool. Rippling sunlight reflects through the glass onto the stone. A single olive branch frames the upper left corner. Luxury product photography, realistic refraction, crisp bottle edges, soft shadows, uncluttered composition, no logo or text.",
+    "prompt_extend": true,
+    "inputs": [],
+    "outputs": [
+      "generated_en_4.webp"
+    ],
+    "generation": {
+      "model": "pre-qwen-image-2.1-eval-preprocess-0917",
+      "seed": 42,
+      "prompt_extend": true,
+      "size": [
+        2496,
+        1664
+      ]
+    }
+  }
+]
